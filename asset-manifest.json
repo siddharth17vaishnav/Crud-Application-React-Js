@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/Crud-Application-React-Js/static/js/main.f85ea280.chunk.js",
+    "main.js.map": "/Crud-Application-React-Js/static/js/main.f85ea280.chunk.js.map",
+    "runtime-main.js": "/Crud-Application-React-Js/static/js/runtime-main.ee65444e.js",
+    "runtime-main.js.map": "/Crud-Application-React-Js/static/js/runtime-main.ee65444e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Crud-Application-React-Js/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.25209c26.chunk.js": "/Crud-Application-React-Js/static/js/2.25209c26.chunk.js",
+    "static/js/2.25209c26.chunk.js.map": "/Crud-Application-React-Js/static/js/2.25209c26.chunk.js.map",
+    "static/js/3.ac219f4a.chunk.js": "/Crud-Application-React-Js/static/js/3.ac219f4a.chunk.js",
+    "static/js/3.ac219f4a.chunk.js.map": "/Crud-Application-React-Js/static/js/3.ac219f4a.chunk.js.map",
+    "index.html": "/Crud-Application-React-Js/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Crud-Application-React-Js/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.25209c26.chunk.js.LICENSE.txt": "/Crud-Application-React-Js/static/js/2.25209c26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee65444e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.25209c26.chunk.js",
+    "static/js/main.f85ea280.chunk.js"
+  ]
+}
